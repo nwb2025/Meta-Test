@@ -1,2 +1,2 @@
-# AndroidDev2019Data
-Exercise files for Android Development Essential Training: Manage Data (2019)
+# Gif App
+a Test application for an Android Developer position 
